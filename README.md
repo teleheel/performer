@@ -31,7 +31,8 @@ This is the client version of the modpack.
 - [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)
 - [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
-- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)
+- [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore)
 
 ### Performance - Client Only
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
@@ -40,6 +41,8 @@ This is the client version of the modpack.
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
 - [Cull leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+- [lazy-language-loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)
+- [Smoke Suppression](https://www.curseforge.com/minecraft/mc-mods/smoke-suppression)
 
 ### Utilities
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
