@@ -1,4 +1,5 @@
 /.fabric/
+/backup/
 /coremods/
 /crash-reports/
 /logs/
@@ -15,3 +16,4 @@ options.amecsapi.txt
 options.txt
 servers.dat
 servers.dat_old
+usercache.json

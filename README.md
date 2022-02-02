@@ -76,6 +76,18 @@ This is the client version of the modpack.
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
 
+### Visual - Client Only
+- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
+- [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
+- [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies)
+- [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d)
+- [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric)
+- [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
+- [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
+- [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)
+- [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
+- [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
