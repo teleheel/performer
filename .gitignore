@@ -1,5 +1,7 @@
 /.fabric/
+/backup/
 /logs/
+/not-enough-crashes/
 /versions/
 /world/
 

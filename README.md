@@ -19,6 +19,15 @@ This is the server version of the modpack.
 ### Performance - Server Only
 - [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
 
+### Utilities
+- [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
+- [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
+- [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
+
+### Utilities - Server Only
+- [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
+
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
