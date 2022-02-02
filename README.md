@@ -26,14 +26,12 @@ This is the server version of the modpack.
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
 - [FastBench](https://www.curseforge.com/minecraft/mc-mods/fastbench-for-fabric)
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
-- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)
 - [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
-
-### Performance - Server Only
-- [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
+- [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds)
+- [ServerCore](https://www.curseforge.com/minecraft/mc-mods/servercore)
 
 ### Utilities
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
