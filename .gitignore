@@ -1,0 +1,11 @@
+/.fabric/
+/coremods/
+/logs/
+/resourcepacks/
+/saves/
+/screenshots/
+/server-resource-packs/
+/shaderpacks/
+/texturepacks/
+
+realms_persistence.json
