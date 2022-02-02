@@ -1,5 +1,6 @@
 # performer
-Simple Fabric modpack with exclusively performance, bugfix and utility mods.
+Simple Fabric modpack with exclusively performance, bugfix, utility and some
+UI mods.
 
 This is the server version of the modpack.
 
@@ -39,11 +40,21 @@ This is the server version of the modpack.
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
+- [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
 
-### Utilities - Server Only
+### User Interface
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements)
+- [Styled Player List](https://www.curseforge.com/minecraft/mc-mods/styled-player-list)
+- [Drogtor the Nickinator](https://www.curseforge.com/minecraft/mc-mods/drogtor)
+- [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
+
+### User Interface - Server Only
 - [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
