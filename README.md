@@ -24,8 +24,19 @@ This is the client version of the modpack.
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
 - [Cull leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 
+### Utilities
+- [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
+- [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
+- [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
+
 ### Utilities - Client Only
-- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)v
+- [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
+- [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)
+- [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric)
+- [Amecs](https://github.com/Klotzi111/amecs)
+- [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
@@ -33,3 +44,4 @@ This is the client version of the modpack.
 
 ### Libraries - Client Only
 - [Indium](https://github.com/comp500/Indium/releases)
+- [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)

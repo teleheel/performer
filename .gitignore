@@ -1,6 +1,7 @@
 /.fabric/
 /coremods/
 /logs/
+/not-enough-crashes/
 /resourcepacks/
 /saves/
 /screenshots/
@@ -11,3 +12,4 @@
 realms_persistence.json
 options.txt
 servers.dat
+servers.dat_old
