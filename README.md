@@ -4,6 +4,22 @@ Simple Fabric modpack with exclusively performance, bugfix and utility mods.
 This is the client version of the modpack.
 
 ## Mods
+### Bugfixes
+- [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix)
+- [Keep Head Names](https://www.curseforge.com/minecraft/mc-mods/keepheadnames)
+- [Multi World Borders](https://modrinth.com/mod/worldborderfix)
+- [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe/versions)
+- [Wither Cage Fix](https://www.curseforge.com/minecraft/mc-mods/wither-cage-fix)
+- [Fix Experience Bug](https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug)
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric)
+- [Boat Fall](https://modrinth.com/mod/boat-fall)
+- [Dimension Fix](https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported)
+
+### Bugfixes - Client Only
+- [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix)
+- [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
+
 ### Performance
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
@@ -41,6 +57,7 @@ This is the client version of the modpack.
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
 
 ### Libraries - Client Only
 - [Indium](https://github.com/comp500/Indium/releases)
