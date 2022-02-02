@@ -1,5 +1,6 @@
 # performer
-Simple Fabric modpack with exclusively performance, bugfix and utility mods.
+Simple Fabric modpack with exclusively performance, bugfix, utility and some
+UI mods.
 
 This is the client version of the modpack.
 
@@ -45,6 +46,7 @@ This is the client version of the modpack.
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
+- [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
 
 ### Utilities - Client Only
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)v
@@ -54,11 +56,35 @@ This is the client version of the modpack.
 - [Amecs](https://github.com/Klotzi111/amecs)
 - [Cherished Worlds](https://www.curseforge.com/minecraft/mc-mods/cherished-worlds-fabric)
 
+### User Interface
+- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Clickable advancements](https://www.curseforge.com/minecraft/mc-mods/clickable-advancements)
+- [Styled Player List](https://www.curseforge.com/minecraft/mc-mods/styled-player-list)
+- [Drogtor the Nickinator](https://www.curseforge.com/minecraft/mc-mods/drogtor)
+- [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
+
+### User Interface - Client Only
+- [Inspecio](https://www.curseforge.com/minecraft/mc-mods/inspecio)
+- [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [Stylish Effects](https://www.curseforge.com/minecraft/mc-mods/stylish-effects-fabric)
+- [Equipment Compare](https://www.curseforge.com/minecraft/mc-mods/equipment-compare-fabric)
+- [SomeOrdinaryTweaks](https://www.curseforge.com/minecraft/mc-mods/someordinarytweaks-fabric)
+- [Straighten Up](https://www.curseforge.com/minecraft/mc-mods/straighten-up)
+- [Big Items, duh](https://www.curseforge.com/minecraft/mc-mods/big-items-duh)
+- [No Angled Brackets](https://www.curseforge.com/minecraft/mc-mods/no-angled-brackets)
+- [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
+- [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
+
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
+- [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
 
 ### Libraries - Client Only
 - [Indium](https://github.com/comp500/Indium/releases)
 - [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)
+- [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric)
+- [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
+- [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric)
