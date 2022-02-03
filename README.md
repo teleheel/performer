@@ -66,10 +66,7 @@ This is the server version of the modpack.
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
 
 ## Configuration
-
-The general bugfix and tweaks mods contain a huge amount of different settings
-that can be changed to the users like.
-
+### Carpet
 Check the github of [Carpet](https://github.com/gnembon/fabric-carpet) and
 [Carpet Fixes](https://github.com/gnembon/carpet-extra) for a list of all settings.
 To configure the mod, type `/carpet setDefault <setting> <value>` in the server
@@ -77,11 +74,6 @@ command line. You can also use the configuration included in this modpack by cop
 the content of config/carpet/default_carpet.conf to world/carpet.conf. If the file
 world/carpet.conf doesn't exist, create it.
 
-To configure Fabrication, join your server as op, find Fabrication in the mod
-menu, and select server in the top right of your screen. Then enable/disable
-whatever options you want.
-
-### Carpet
 <details>
   <summary>Bugfixes:</summary>
 
@@ -160,4 +152,127 @@ whatever options you want.
   - renewableWitherSkeletons true
   - spiderJockeysDropGapples 10
   - straySpawningInIgloos true
+</details>
+
+### Fabrication
+To configure Fabrication, join your server as op, find Fabrication in the mod
+menu, and select server in the top right of your screen. Then enable/disable
+whatever options you want.
+
+<details>
+  <summary>General:</summary>
+
+  - profile green
+</details>
+
+<details>
+  <summary>Fixes:</summary>
+
+  - adventure_tags_in_survival true
+  - fix_superflat_bad_structures true
+  - furnace_minecart_pushing true
+  - silverfish_step true
+  - stable_cacti true
+  - sync_attacker_yaw true
+</details>
+
+<details>
+  <summary>Utility:</summary>
+
+  - extra.chat_markdown true
+  - extra.weapons_accept_silk true
+  - extract_furnace_xp true
+  - hide_armor true
+  - legacy_command_syntax true
+  - mods_command true
+  - ping_privacy true
+</details>
+
+<details>
+  <summary>Tweaks:</summary>
+
+  - alt_absorption_sound true
+  - bush_walk_doesnt_hurt_with_armor true
+  - cactus_brush_doesnt_hurt_with_chest true
+  - cactus_walk_doesnt_hurt_with_boots true
+  - campfires_cook_entities true
+  - campfires_ignite_entities true
+  - campfires_place_unlit true
+  - cracking_spawn_eggs true
+  - feather_falling_no_trample true
+  - flammable_cobwebs true
+  - ghast_panic true
+  - less_restrictive_note_blocks true
+  - nether_cauldron true
+  - no_dinnerlava true
+  - no_heavy_minecarts true
+  - no_sneak_bypass true
+  - play_note_blocks_in_creative true
+  - reverse_note_block_tuning true
+  - tridents_in_void_return true
+</details>
+
+<details>
+  <summary>Minor Mechanics:</summary>
+
+  - cactus_punching_hurts true
+  - crawling true
+  - exact_note_block_tuning true
+  - extra.collision_based_landing_pos true
+  - fire_aspect_is_flint_and_steel true
+  - fire_protection_on_any_item true
+  - furnace_minecart_any_fuel true
+  - infibows true
+  - invisibility_splash_on_inanimates true
+  - mechanism_muffling true
+  - note_block_notes true
+  - note_blocks_play_on_landing true
+  - spiders_cant_climb_glazed_terracotta true
+  - tridents_activate_levers true
+  - unsaddle_creatures true
+</details>
+
+<details>
+  <summary>Mechanics:</summary>
+
+  - anvil_repair true
+  - bottled_air true
+  - detecting_powered_rails true
+  - directional_detector_rails true
+  - directional_powered_rails true
+  - enhanced_moistness true
+  - obsidian_tears true
+  - toggleable_furnace_carts true
+</details>
+
+<details>
+  <summary>Balance:</summary>
+
+  - anvil_rename_always_costs_one true
+  - bedrock_impaling true
+  - disable_prior_work_penalty true
+  - drop_more_exp_on_death true
+  - extra.ender_dragon_always_spawn_egg true
+  - extra.infinity_mending true
+  - faster_obsidian true
+  - infinity_crossbows true
+  - soul_speed_doesnt_damage_boots true
+  - tridents_accept_power true
+  - tridents_accept_sharpness true
+</details>
+
+<details>
+  <summary>Wierd Tweaks:</summary>
+
+  - blaze_fertilizer true
+  - disable_equip_sound true
+  - drop_exp_with_keep_inventory true
+  - extra.thrown_buckets_empty_lava_cauldrons true
+</details>
+
+<details>
+  <summary>Unsafe:</summary>
+
+  - disable_breaking_speed_check true
+  - disable_moved_too_quickly true
 </details>
