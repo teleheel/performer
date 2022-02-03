@@ -23,6 +23,7 @@ This is the client version of the modpack.
 - [Dimension Fix](https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported)
 - [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
 - [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)
+- [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
 - [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix)
 
 ### Bugfixes - Client Only
@@ -48,7 +49,7 @@ This is the client version of the modpack.
 - [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)
 - [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
-- [Cull leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+- [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 - [lazy-language-loader](https://www.curseforge.com/minecraft/mc-mods/lazy-language-loader)
 - [Smoke Suppression](https://www.curseforge.com/minecraft/mc-mods/smoke-suppression)
 
@@ -113,20 +114,22 @@ This is the client version of the modpack.
 - [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric)
 
 ## Configuration
+### Cull Leaves
+Cull leaves does what it says, it culls leaves. This means that leaf blocks
+that are completely covered by other leaves is not rendered.
 
-The general bugfix and tweaks mods contain a huge amount of different settings
-that can be changed to the users like.
+If leaves are set to fancy in video settings, trees will look ugly. Either
+disable the mod in the mod menu (you will gain no performance boost from this mod
+then) or switch to fast leaves. Alternatively, you can enable the smart leaves
+resource pack for a slightly better look with fancy leaves.
 
+### Carpet
 Check the github of [Carpet](https://github.com/gnembon/fabric-carpet) and
 [Carpet Fixes](https://github.com/gnembon/carpet-extra) for a list of all settings.
 To configure the mods, type `/carpet setDefault <setting> <value>` while in a
 singleplayer world. Whenever you create a new save, Carpet and Carpet Extra will
 be configured with the content of config/carpet/default_carpet.conf.
 
-To configure Fabrication, find Fabrication in the mod menu, and select client
-in the top right of your screen. Then enable/disable whatever options you want.
-
-### Carpet
 <details>
   <summary>Bugfixes:</summary>
 
@@ -205,4 +208,190 @@ in the top right of your screen. Then enable/disable whatever options you want.
   - renewableWitherSkeletons true
   - spiderJockeysDropGapples 10
   - straySpawningInIgloos true
+</details>
+
+### Fabrication
+To configure Fabrication, find Fabrication in the mod menu, and select client
+in the top right of your screen. Then enable/disable whatever options you want.
+
+<details>
+  <summary>General:</summary>
+
+  - profile green
+</details>
+
+<details>
+  <summary>Fixes:</summary>
+
+  - adventure_tags_in_survival true
+  - better_pause_freezing true
+  - boundless_levels true
+  - bubble_column_pop true
+  - colored_crack_particles true
+  - fix_charm_amethyst_dupe true
+  - fix_end_portal_render true
+  - fix_superflat_bad_structures true
+  - furnace_minecart_pushing true
+  - ghast_charging true
+  - inanimates_can_be_invisible true
+  - multiline_sign_paste true
+  - no_night_vision_flash true
+  - omniscent_player true
+  - open_inventories_in_nether_portal true
+  - silverfish_step true
+  - stable_cacti true
+  - sync_attacker_yaw true
+  - uncap_menu_fps true
+  - use_player_list_name_in_tag true
+</details>
+
+
+<details>
+  <summary>Utility:</summary>
+
+  - extra.chat_markdown true
+  - extra.weapons_accept_silk true
+  - extract_furnace_xp true
+  - hide_armor true
+  - legacy_command_syntax true
+  - mob_ids true
+  - mods_command true
+  - ping_privacy true
+  - show_bee_count_tooltip true
+</details>
+
+<details>
+  <summary>Tweaks:</summary>
+
+  - alt_absorption_sound true
+  - bush_walk_doesnt_hurt_with_armor true
+  - cactus_brush_doesnt_hurt_with_chest true
+  - cactus_walk_doesnt_hurt_with_boots true
+  - campfires_cook_entities true
+  - campfires_ignite_entities true
+  - campfires_place_unlit true
+  - cracking_spawn_eggs true
+  - feather_falling_no_trample true
+  - flammable_cobwebs true
+  - fullres_banner_shields true
+  - ghast_panic true
+  - legible_signs true
+  - less_annoying_fire true
+  - less_restrictive_note_blocks true
+  - long_levelup_sound_at_30 true
+  - nether_cauldron true
+  - no_dinnerlava true
+  - no_heavy_minecarts true
+  - no_sneak_bypass true
+  - normal_fog_with_night_vision true
+  - play_note_blocks_in_creative true
+  - rainbow_experience true
+  - reverse_note_block_tuning true
+  - see_items_while_riding true
+  - tridents_in_void_return true
+</details>
+
+<details>
+  <summary>Minor Mechanics:</summary>
+
+  - cactus_punching_hurts true
+  - crawling true
+  - exact_note_block_tuning true
+  - extra.collision_based_landing_pos true
+  - fire_aspect_is_flint_and_steel true
+  - fire_protection_on_any_item true
+  - furnace_minecart_any_fuel true
+  - infibows true
+  - invisibility_splash_on_inanimates true
+  - mechanism_muffling true
+  - note_block_notes true
+  - note_blocks_play_on_landing true
+  - spiders_cant_climb_glazed_terracotta true
+  - tridents_activate_levers true
+  - unsaddle_creatures true
+</details>
+
+<details>
+  <summary>Mechanics:</summary>
+
+  - anvil_repair true
+  - bottled_air true
+  - detecting_powered_rails true
+  - directional_detector_rails true
+  - directional_powered_rails true
+  - enhanced_moistness true
+  - obsidian_tears true
+  - toggleable_furnace_carts true
+</details>
+
+<details>
+  <summary>Balance:</summary>
+
+  - anvil_rename_always_costs_one true
+  - bedrock_impaling true
+  - disable_prior_work_penalty true
+  - drop_more_exp_on_death true
+  - extra.ender_dragon_always_spawn_egg true
+  - extra.infinity_mending true
+  - faster_obsidian true
+  - infinity_crossbows true
+  - soul_speed_doesnt_damage_boots true
+  - tridents_accept_power true
+  - tridents_accept_sharpness true
+</details>
+
+<details>
+  <summary>Wierd Tweaks:</summary>
+
+  - blaze_fertilizer true
+  - disable_equip_sound true
+  - drop_exp_with_keep_inventory true
+  - extra.foliage_creepers true
+  - extra.thrown_buckets_empty_lava_cauldrons true
+</details>
+
+<details>
+  <summary>WOINA (forward ports of old features):</summary>
+
+  - extra.oof true
+</details>
+
+<details>
+  <summary>Unsafe:</summary>
+
+  - disable_breaking_speed_check true
+  - disable_moved_too_quickly true
+</details>
+
+### SomeOrdinaryTweaks
+Check the [mod page](https://www.curseforge.com/minecraft/mc-mods/someordinarytweaks-fabric)
+for explanations of the various settings.
+
+<details>
+  <summary>Default configuration:</summary>
+
+  - Better horse HUD
+  - Hide tutorial toasts (popups)
+  - Death coordinates in the death screen
+  - Smarter edible crops placement
+</details>
+
+### TieFix
+Check the [mod page](https://www.curseforge.com/minecraft/mc-mods/tiefix)
+for explanations of the various settings.
+
+<details>
+  <summary>Default configuration:</summary>
+
+  - Hide scoreboard when F3 is enabled
+  - Fix line limit when writing sign
+  - Fix 't' when opening chat (linux only)
+  - Fix offhand item while using riptide
+  - Fix riptide speed with depth strider
+  - Scroll text fields when selecting text
+  - Fix actionbar text missing shadow
+  - Fix stuck Shift key in text boxes
+  - Fix 'Add Server' not focusing box
+  - Fix 'Direct Connect' not focusing box
+  - Disable telemetry
 </details>
