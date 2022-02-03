@@ -131,3 +131,4 @@
 	# Activation range settings for miscellaneous entities.
 	misc_activation_range = 32
 	misc_tick_inactive = true
+

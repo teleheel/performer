@@ -5,6 +5,11 @@ UI mods.
 This is the client version of the modpack.
 
 ## Mods
+### General Bugfix & Tweak Mods
+- [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet)
+- [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra)
+- [Fabrication](https://www.curseforge.com/minecraft/mc-mods/fabrication)
+
 ### Bugfixes
 - [FabricCrossDimTPFix](https://modrinth.com/mod/fabriccrossdimtpfix)
 - [Keep Head Names](https://www.curseforge.com/minecraft/mc-mods/keepheadnames)
@@ -16,6 +21,9 @@ This is the client version of the modpack.
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric)
 - [Boat Fall](https://modrinth.com/mod/boat-fall)
 - [Dimension Fix](https://www.curseforge.com/minecraft/mc-mods/dimension-fix-some-forge-patches-ported)
+- [Advancements Debug](https://www.curseforge.com/minecraft/mc-mods/advancements-debug)
+- [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)
+- [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix)
 
 ### Bugfixes - Client Only
 - [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix)
@@ -103,3 +111,98 @@ This is the client version of the modpack.
 - [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric)
 - [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
 - [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric)
+
+## Configuration
+
+The general bugfix and tweaks mods contain a huge amount of different settings
+that can be changed to the users like.
+
+Check the github of [Carpet](https://github.com/gnembon/fabric-carpet) and
+[Carpet Fixes](https://github.com/gnembon/carpet-extra) for a list of all settings.
+To configure the mods, type `/carpet setDefault <setting> <value>` while in a
+singleplayer world. Whenever you create a new save, Carpet and Carpet Extra will
+be configured with the content of config/carpet/default_carpet.conf.
+
+To configure Fabrication, find Fabrication in the mod menu, and select client
+in the top right of your screen. Then enable/disable whatever options you want.
+
+### Carpet
+<details>
+  <summary>Bugfixes:</summary>
+
+  - ctrlQCraftingFix true
+  - leadFix true
+  - lightningKillsDropsFix true
+  - placementRotationFix true
+  - updateSuppressionCrashFix true
+</details>
+
+<details>
+  <summary>Optimizations:</summary>
+
+  - lagFreeSpawning true
+  - maxEntityCollisions 40
+  - optimizedTNT true
+</details>
+
+<details>
+  <summary>Utilities:</summary>
+
+  - antiCheatDisabled true
+  - cleanLogs true
+</details>
+
+<details>
+  <summary>Survival features:</summary>
+
+  - desertShrubs true
+  - huskSpawningInTemples true
+  - missingTools true
+  - movableAmethyst true
+  - persistentParrots true
+  - piglinsSpawningInBastions true
+  - renewableBlackstone true
+  - renewableCoral true
+  - renewableDeepslate true
+  - renewableSponges true
+  - shulkerSpawningInEndCities true
+  - silverFishDropGravel true
+  - stackableShulkerBoxes true
+</details>
+
+### Carpet Extra
+<details>
+  <summary>Bugfixes:</summary>
+
+  - doubleRetraction true
+  - hopperMinecart8gtCooldown true
+  - hopperMinecartItemTransfer true
+  - reloadSuffocationFix true
+  - repeaterPriorityFix true
+</details>
+
+<details>
+  <summary>Survival features:</summary>
+
+  - accurateBlockPlacement true
+  - betterBonemeal true
+  - blazeMeal true
+  - chickenShearing true
+  - clericsFarmWarts true
+  - dispensersCarvePumpkins true
+  - dispensersFeedAnimals true
+  - dispensersFillMinecarts true
+  - dispensersMilkAnimals true
+  - dispensersPlayRecords true
+  - dispensersPotPlants true
+  - dispensersUseCauldrons true
+  - emptyShulkerBoxStackAlways true
+  - renewableEndstone true
+  - renewableIce true
+  - renewableLava true
+  - renewableNetherrack true
+  - renewableSand true
+  - renewableWitherSkeletons true
+  - spiderJockeysDropGapples 10
+  - straySpawningInIgloos true
+</details>
