@@ -1,6 +1,6 @@
 {
   "Generic": {
-    "carpetCtrlQCraftingEnabledOnServer": false,
+    "carpetCtrlQCraftingEnabledOnServer": true,
     "clientCraftingFixOn1.12": true,
     "craftingRenderRecipeItems": true,
     "modMainToggle": true,
