@@ -5,11 +5,9 @@
 /logs/
 /ModTranslations/
 /not-enough-crashes/
-/resourcepacks/
 /saves/
 /screenshots/
 /server-resource-packs/
-/shaderpacks/
 /texturepacks/
 
 realms_persistence.json

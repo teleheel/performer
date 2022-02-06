@@ -50,11 +50,6 @@
     "cloak": "uni"
   },
   {
-    "name": "JuceDoesThings",
-    "uuid": "1d2c9dba-258f-4c68-853c-52624d40705f",
-    "cloak": "void"
-  },
-  {
     "name": "GrayDisk",
     "uuid": "490c5348-a136-4aae-b9c6-c8f350f38833",
     "cloak": "violet"
@@ -1300,11 +1295,6 @@
     "cloak": "mystic"
   },
   {
-    "name": "4567gio",
-    "uuid": "3a0f73aa-3509-4d1f-8e51-de2154fc8d62",
-    "cloak": "enchanted-jeb"
-  },
-  {
     "name": "Penguin_Spy",
     "uuid": "dfbd911d-9775-495e-aac3-efe339db7efd",
     "cloak": "non-binary"
@@ -1753,5 +1743,20 @@
     "name": "Meganodark",
     "uuid": "5d9c7410-06ac-4bfb-aa48-c567c004a1d7",
     "cloak": "azure"
+  },
+  {
+    "name": "Marovomi_Akuza",
+    "uuid": "426e8202-caff-4a3f-b442-42d807d9b4a7",
+    "cloak": "golden"
+  },
+  {
+    "name": "JuceDoesThings",
+    "uuid": "1d2c9dba-258f-4c68-853c-52624d40705f",
+    "cloak": "enchanted-jeb"
+  },
+  {
+    "name": "giosuit",
+    "uuid": "3a0f73aa-3509-4d1f-8e51-de2154fc8d62",
+    "cloak": "jeb"
   }
 ]

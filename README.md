@@ -29,6 +29,7 @@ This is the client version of the modpack.
 ### Bugfixes - Client Only
 - [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix)
 - [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
+- [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 
 ### Performance
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
@@ -59,6 +60,8 @@ This is the client version of the modpack.
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
 - [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
+- [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
+- [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
 
 ### Utilities - Client Only
 - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)v
@@ -87,6 +90,7 @@ This is the client version of the modpack.
 - [No Angled Brackets](https://www.curseforge.com/minecraft/mc-mods/no-angled-brackets)
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
+- [What Mod Is This Actually From?](https://www.curseforge.com/minecraft/mc-mods/wmitaf)
 
 ### Visual - Client Only
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
@@ -99,12 +103,53 @@ This is the client version of the modpack.
 - [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)
 - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
 - [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+- [NoMoreGlowingPots](https://www.curseforge.com/minecraft/mc-mods/nomoreglowingpots)
+
+### Shaders and Resource Packs support - Client Only
+- [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+- [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
+
+### Animations - Client Only
+- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
+- [Eating Animation (currently not available due to incompatibility with CIT resource packs)](https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric)
+- [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
+- [Wavey Capes](https://www.curseforge.com/minecraft/mc-mods/waveycapes)
+- [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
+- [Cool Elytra Roll](https://www.curseforge.com/minecraft/mc-mods/cool-elytra-roll)
+
+### Quality of Life
+- [Leaves Us In Peace](https://www.curseforge.com/minecraft/mc-mods/leaves-us-in-peace)
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
+- [Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
+- [Trinket of Undying](https://www.curseforge.com/minecraft/mc-mods/trinket-of-undying-fabric)
+- [Trinket Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/trinket-shulker-boxes-fabric)
+- [Suitably Stackable Stew](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew)
+- [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
+- [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
+
+### Features
+- [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features)
+- [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire)
+- [Farsighted Mobs](https://www.curseforge.com/minecraft/mc-mods/farsighted-mobs)
+- [Independent Pets / IndyPets](https://www.curseforge.com/minecraft/mc-mods/indypets)
+- [Enchant the Rainbow](https://www.curseforge.com/minecraft/mc-mods/enchant-the-rainbow)
+- [Netherite Nuggets](https://www.curseforge.com/minecraft/mc-mods/netherite-nuggets-fabric)
+- [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
+- [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
+- [More Axolotl Variants Mod](https://www.curseforge.com/minecraft/mc-mods/mavm)
+- [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings)
+- [Enchantment Lore](https://www.curseforge.com/minecraft/mc-mods/enchantment-lore)
+
+### Resource Packs - Client Only
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
+- [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)
 
 ### Libraries - Client Only
 - [Indium](https://github.com/comp500/Indium/releases)
