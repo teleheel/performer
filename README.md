@@ -47,6 +47,12 @@ This is the server version of the modpack.
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
 - [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
+- [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
+- [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
+
+### Utilities - Server Only
+- [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
+- [I'm Here Get Moving](https://modrinth.com/mod/ihgm)
 
 ### User Interface
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
@@ -56,14 +62,35 @@ This is the server version of the modpack.
 - [Drogtor the Nickinator](https://www.curseforge.com/minecraft/mc-mods/drogtor)
 - [ItemFlexer](https://www.curseforge.com/minecraft/mc-mods/itemflexer)
 
-### User Interface - Server Only
-- [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
+### Quality of Life
+- [Leaves Us In Peace](https://www.curseforge.com/minecraft/mc-mods/leaves-us-in-peace)
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric)
+- [Elytra Trinket](https://www.curseforge.com/minecraft/mc-mods/elytra-trinket-fabric)
+- [Trinket of Undying](https://www.curseforge.com/minecraft/mc-mods/trinket-of-undying-fabric)
+- [Trinket Shulker Boxes](https://www.curseforge.com/minecraft/mc-mods/trinket-shulker-boxes-fabric)
+- [Suitably Stackable Stew](https://www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew)
+- [Better Signs & Frames](https://www.curseforge.com/minecraft/mc-mods/better-signs-and-frames)
+- [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed)
+
+### Features
+- [More Banner Features](https://www.curseforge.com/minecraft/mc-mods/more-banner-features)
+- [On Soul Fire](https://www.curseforge.com/minecraft/mc-mods/on-soul-fire)
+- [Farsighted Mobs](https://www.curseforge.com/minecraft/mc-mods/farsighted-mobs)
+- [Independent Pets / IndyPets](https://www.curseforge.com/minecraft/mc-mods/indypets)
+- [Enchant the Rainbow](https://www.curseforge.com/minecraft/mc-mods/enchant-the-rainbow)
+- [Netherite Nuggets](https://www.curseforge.com/minecraft/mc-mods/netherite-nuggets-fabric)
+- [Audaki Cart Engine](https://www.curseforge.com/minecraft/mc-mods/audaki-cart-engine)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts-fabric)
+- [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
+- [More Axolotl Variants Mod](https://www.curseforge.com/minecraft/mc-mods/mavm)
+- [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 - [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 - [Balm](https://www.curseforge.com/minecraft/mc-mods/balm-fabric)
+- [Trinkets](https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric)
 
 ## Configuration
 ### Carpet
