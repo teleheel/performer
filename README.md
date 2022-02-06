@@ -85,6 +85,15 @@ This is the server version of the modpack.
 - [More Axolotl Variants Mod](https://www.curseforge.com/minecraft/mc-mods/mavm)
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings)
 
+### Worldgen
+- [Terralith 2.0 ~ Overworld Evolved](https://www.curseforge.com/minecraft/mc-mods/terralith)
+- [Cave Tweaks](https://www.curseforge.com/minecraft/mc-mods/cave-tweaks)
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
+
+### Datapacks
+- [BlazeandCave's Advancements Pack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
+- [BlazeandCave's Advancements Pack Terralith version](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/)
+
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
