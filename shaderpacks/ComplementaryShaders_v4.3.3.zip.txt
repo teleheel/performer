@@ -1,0 +1,9 @@
+#Sun Feb 06 21:58:33 CET 2022
+shadowDistance=128.0
+REFLECTION=false
+shadowMapResolution=1024
+SHADOWS=false
+BLOCK_ENTITY_SHADOWS=false
+ENTITY_SHADOWS=false
+REFLECTION_SPECULAR=false
+SPECULAR_SKY_REF=false

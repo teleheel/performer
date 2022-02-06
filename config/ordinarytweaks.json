@@ -4,7 +4,7 @@
   "betterHorseHUD": true,
   "hideTutorialToasts": true,
   "hideAdvancementToasts": false,
-  "hideRecipeUnlockToasts": false,
+  "hideRecipeUnlockToasts": true,
   "deathCordsClipBoardButton": true,
   "disablePortalGUIClosing": false,
   "doNotPlantEdiblesIfHungry": true,

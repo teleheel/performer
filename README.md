@@ -92,6 +92,26 @@ This is the client version of the modpack.
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
 - [What Mod Is This Actually From?](https://www.curseforge.com/minecraft/mc-mods/wmitaf)
 
+### Shaders and Resource Packs support - Client Only
+- [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+- [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
+
+### Resource Packs - Client Only
+- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
+- [xali's Potions](https://www.curseforge.com/minecraft/texture-packs/xalis-potions)
+- [xali's Enchanted Books](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books)
+- [Enchanted Weapons Slim Version](https://www.curseforge.com/minecraft/texture-packs/enchanted-weapons-slim-version)
+- [Enchanted Armors](https://www.curseforge.com/minecraft/texture-packs/enchanted-armors)
+- [Enhanced Hud](https://www.curseforge.com/minecraft/texture-packs/enhanced-hud)
+- [A Better GUI 2](https://www.curseforge.com/minecraft/texture-packs/a-better-gui-2)
+- [Nature Revamp - 3D Models for Plants, Dripstone, Mushrooms, Crimson/Warped Fungus and more!](https://www.curseforge.com/minecraft/texture-packs/nature-revamp)
+- [3D Cave Vines! 3D Hanging Roots!](https://www.planetminecraft.com/texture-pack/3d-cave-vines-3d-hanging-roots/)
+- [Remodeled Doors](https://www.curseforge.com/minecraft/texture-packs/remodeled-doors)
+- [Cake pieces](https://www.planetminecraft.com/texture-pack/cake-pieces/)
+
+### Shaders - Client Only
+- [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+
 ### Visual - Client Only
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 - [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
@@ -104,10 +124,6 @@ This is the client version of the modpack.
 - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
 - [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
 - [NoMoreGlowingPots](https://www.curseforge.com/minecraft/mc-mods/nomoreglowingpots)
-
-### Shaders and Resource Packs support - Client Only
-- [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-- [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
 
 ### Animations - Client Only
 - [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person)
@@ -141,8 +157,14 @@ This is the client version of the modpack.
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings)
 - [Enchantment Lore](https://www.curseforge.com/minecraft/mc-mods/enchantment-lore)
 
-### Resource Packs - Client Only
-- [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/)
+### Worldgen
+- [Terralith 2.0 ~ Overworld Evolved](https://www.curseforge.com/minecraft/mc-mods/terralith)
+- [Cave Tweaks](https://www.curseforge.com/minecraft/mc-mods/cave-tweaks)
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
+
+### Datapacks
+- [BlazeandCave's Advancements Pack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
+- [BlazeandCave's Advancements Pack Terralith version](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-terralith-version/)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
