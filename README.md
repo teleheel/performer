@@ -29,6 +29,7 @@ This is the client version of the modpack.
 - [Axolotl Bucket Fix](https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix)
 - [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)
 - [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix)
+- [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 
 ### Performance
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
@@ -58,9 +59,10 @@ This is the client version of the modpack.
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
 - [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
+- [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
 
 ### Utilities - Client Only
-- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)v
+- [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 - [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
 - [Auth Me](https://www.curseforge.com/minecraft/mc-mods/auth-me)
 - [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric)
@@ -86,6 +88,11 @@ This is the client version of the modpack.
 - [No Angled Brackets](https://www.curseforge.com/minecraft/mc-mods/no-angled-brackets)
 - [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger)
 - [Right Click Clear](https://www.curseforge.com/minecraft/mc-mods/right-click-clear)
+- [What Mod Is This Actually From?](https://www.curseforge.com/minecraft/mc-mods/wmitaf)
+
+### Shaders and Resource Packs support - Client Only
+- [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+- [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
 
 ### Visual - Client Only
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
@@ -98,6 +105,7 @@ This is the client version of the modpack.
 - [Visuality](https://www.curseforge.com/minecraft/mc-mods/visuality)
 - [Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric)
 - [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+- [NoMoreGlowingPots](https://www.curseforge.com/minecraft/mc-mods/nomoreglowingpots)
 
 ### Libraries
 - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
