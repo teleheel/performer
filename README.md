@@ -25,9 +25,6 @@ This is the server version of the modpack.
 - [XL Packets Fabric](https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric)
 - [CleanCut](https://www.curseforge.com/minecraft/mc-mods/cleancut)
 
-### Bugfixes - Server Only
-- [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer)
-
 ### Performance
 - [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
@@ -42,6 +39,7 @@ This is the server version of the modpack.
 
 ### Server Administration
 - [JLine for Dedicated Server](https://www.curseforge.com/minecraft/mc-mods/jline-for-minecraft-dedicated-server)
+- [I'm Here Get Moving](https://modrinth.com/mod/ihgm)
 
 ### Utilities
 - [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
@@ -49,6 +47,7 @@ This is the server version of the modpack.
 - [BadStdOut](https://www.curseforge.com/minecraft/mc-mods/badstdout)
 - [Textile Backup](https://www.curseforge.com/minecraft/mc-mods/textile-backup)
 - [Notify](https://www.curseforge.com/minecraft/mc-mods/notify)
+- [Trade](https://www.curseforge.com/minecraft/mc-mods/trade)
 
 ### User Interface
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
